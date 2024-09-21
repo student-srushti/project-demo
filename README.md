@@ -1,4 +1,5 @@
 # project-demo
 This is my first Git Repository.
 <br>
-Author-Srushti Jadhav.
+Author-Srushti (Apna College)
+
